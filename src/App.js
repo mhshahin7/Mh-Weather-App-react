@@ -38,10 +38,6 @@ const search = evt => {
   
   const today = new Date();
   const time = today.getHours() + ":"  + today.getMinutes();
-  
-  // const base = 'http://openweathermap.org/img/wn/'
-  // const pngF = '.png'
-  // const iconUrl = `${base} ${data.weather[0].icon} ${pngF}` ;
  
   const instaurl = "https://www.instagram.com/mohamadreza__h7";
   const teleurl = "https://t.me/Mohamadreza_h7";
