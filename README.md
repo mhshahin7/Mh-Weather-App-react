@@ -1,3 +1,8 @@
+# Hi I hope enjoy this app, there is link to see the app in mobile:
+(https://weather-app-9bb5c.web.app/)
+# this app is PWA so you can add or install it into your mobile's homepage
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
