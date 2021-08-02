@@ -4,7 +4,7 @@ import { WiHumidity, WiTornado } from "react-icons/wi";
 
 function App() {
 const api = {
-  key: '5d4bbc5652c7dee9e48e1aafb491ddd4',
+  key: //'your api key',
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
