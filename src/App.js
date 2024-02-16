@@ -4,7 +4,7 @@ import { WiHumidity, WiTornado } from "react-icons/wi";
 
 function App() {
 const api = {
-  key: //'your api key',
+  key: '5d4bbc5652c7dee9e48e1aafb491ddd4',
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
@@ -40,7 +40,7 @@ const search = evt => {
   const time = today.getHours() + ":"  + today.getMinutes();
  
   const instaurl = "https://www.instagram.com/mohamadreza__h7";
-  const teleurl = "https://t.me/Mohamadreza_h7";
+  const teleurl = "https://t.me/smh_mrh";
 
   return (
     <div className={(typeof data.main != "undefined") ? ((time > '18:0') ? 'app warm' : 'app') : 'app'}>
@@ -87,8 +87,8 @@ const search = evt => {
             <div className="date time pre">{time}</div>
             <footer>Designed By Mohamadreza ©</footer>
             <p className="contact">
-              <a className="insta" href={instaurl} ><FaInstagram size={35}/></a>
-              <a className="insta2" href={teleurl} ><FaTelegram size={35}/></a>
+              <a className="insta" href={instaurl} target="_blank" ><FaInstagram size={35}/></a>
+              <a className="insta2" href={teleurl} target="_blank" ><FaTelegram size={35}/></a>
             </p>
             </div>}
       </main>
