@@ -1,5 +1,5 @@
 # Hi I hope enjoy this app, there is link to see the app in mobile:
-(https://weather-app-9bb5c.web.app/)
+(https://mh-weather.netlify.app/)
 # this app is PWA so you can add or install it into your mobile's homepage
 
 
